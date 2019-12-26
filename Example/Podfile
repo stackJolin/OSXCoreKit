@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OSXCoreKit_Example' do
+  pod 'OSXCoreKit', :path => '../'
+
+  target 'OSXCoreKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - OSXCoreKit (0.1.0)
+
+DEPENDENCIES:
+  - OSXCoreKit (from `../`)
+
+EXTERNAL SOURCES:
+  OSXCoreKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OSXCoreKit: 10365fe0d1bb3ddd54f4d02e7395aa7d109d2808
+
+PODFILE CHECKSUM: ba49cf216de4a7353192ae99b213e7847482d6e4
+
+COCOAPODS: 1.8.3
